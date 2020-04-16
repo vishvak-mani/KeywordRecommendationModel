@@ -6,7 +6,7 @@ os
 argparse
 re
 tika
-parser as tika_parser
+parser
 nltk
 stopwords
 ssl
