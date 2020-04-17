@@ -3,7 +3,6 @@ corpus
 textract
 PyPDF2
 argparse
-re
 tika
 parser
 nltk
