@@ -4,8 +4,5 @@ textract
 PyPDF2
 argparse
 tika
-tika.parser
-nltk
-stopwords
 ssl
 spacy
