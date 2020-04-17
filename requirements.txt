@@ -5,4 +5,4 @@ PyPDF2
 argparse
 tika
 spacy
-pke
+
