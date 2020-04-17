@@ -6,3 +6,4 @@ argparse
 tika
 ssl
 spacy
+pke
