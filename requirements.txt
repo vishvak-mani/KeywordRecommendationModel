@@ -4,7 +4,7 @@ textract
 PyPDF2
 argparse
 tika
-parser
+tika.parser
 nltk
 stopwords
 ssl
