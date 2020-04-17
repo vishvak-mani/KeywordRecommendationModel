@@ -4,6 +4,5 @@ textract
 PyPDF2
 argparse
 tika
-ssl
 spacy
 pke
