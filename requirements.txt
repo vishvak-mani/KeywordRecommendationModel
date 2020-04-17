@@ -1,5 +1,5 @@
-pke
-nltk.corpus
+nltk
+corpus
 textract
 PyPDF2
 os
